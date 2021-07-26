@@ -1,3 +1,5 @@
+/* kar-btt */
+
 function escapeRegExp$1(string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
 }
